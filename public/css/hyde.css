@@ -188,9 +188,7 @@ a {
   text-decoration: none;
   }
 a:hover {
-  
   text-decoration:  none;
-
 }
 
 
@@ -304,8 +302,7 @@ a:hover {
   background-color: #f5f5f5;
 }
 
-
-/* Responsive
+	/* Responsive
 -------------------------------------------------- */
 
 @media (min-width: 768px) {
@@ -374,11 +371,10 @@ a:hover {
     border: 1px solid #eee;
   }
   .social{
-  	left:0;
-  	right:0;
-  	bottom:5;
-  	margin-top: 10px;
-  	margin-bottom: 10px;
+    position:absolute;
+  	left:0px;
+  	bottom:-85px;
+  	margin-top: 0px;
   	display: inline-block;
   }
   .socialimg{
@@ -397,6 +393,9 @@ a:hover {
 }
 .over:hover {
 	background-color: gray;
+}
+.subtitle {
+	font-weight:500;
 }
 
 .navitem {
@@ -429,6 +428,7 @@ a:hover {
 }
 .bioimg {
 	width: 200px;
+	height: 280px;
 }
 .sponsorimg{
 	width: 300px;
@@ -437,7 +437,7 @@ a:hover {
 }
 .postimg{
 	width: 700px;
-	height: 300px;
+	
 }
 .season{
 	position:absolute;

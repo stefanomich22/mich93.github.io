@@ -12,8 +12,11 @@ layout: default
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
+        <a class="subtitle" href="{{ post.url }}">
+           {{ post.excerpt }}
+        </a>
+      </div> 
+    </a>
   </div>
   {% endfor %}
 </div>
