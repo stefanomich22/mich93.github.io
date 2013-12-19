@@ -367,6 +367,7 @@ a:hover {
 
   /* Make pagination stand alone */
   .pagination {
+    margin-left: 320px;
     margin-bottom: 60px;
     border: 1px solid #eee;
   }
@@ -374,7 +375,6 @@ a:hover {
     position:absolute;
   	left:0px;
   	bottom:-85px;
-  	margin-top: 0px;
   	display: inline-block;
   }
   .socialimg{
@@ -391,9 +391,7 @@ a:hover {
 	right: 0;
 	
 }
-.over:hover {
-	background-color: gray;
-}
+
 .subtitle {
 	font-weight:500;
 }
@@ -444,7 +442,11 @@ a:hover {
 	top:0;
 	left: 700px;
 }
-
+.resultsTable{
+	text-align:center;
+	
+	
+}
 /* SPONSOR FOOTER */
 .sponsorfooter{
 	position: absolute;
