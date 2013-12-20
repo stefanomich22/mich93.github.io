@@ -1,0 +1,10 @@
+title:        Riccardo Mich
+tagline:      "Riccardo Mich"
+url:          http://riccardomich.com
+author:
+  name:       ""
+  email:      ""
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     5
