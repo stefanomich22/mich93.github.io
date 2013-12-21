@@ -302,9 +302,36 @@ a:hover {
   background-color: #f5f5f5;
 }
 
+
+
+
+.bioimg {
+	width: 150px;
+	height: 150px;
+}
+.sponsorimg{
+	width: 200px;
+	height: 55px;
+    display: inline-block;
+}
+.socialimg{
+  	width: 20px;
+	height: 20px;
+	display: inline-block;
+  }
+  .postimg{
+	width: 200px;
+	
+}
+.team {
+	font-size: 1.2em;
+	font-weight: 500;
+	margin-bottom: 30px;
+	margin-top: 5px;
+}
+
 	/* Responsive
 -------------------------------------------------- */
-
 @media (min-width: 768px) {
   .masthead-inner {
     /*padding: 40px;*/
@@ -317,7 +344,11 @@ a:hover {
     margin-left: 40px;
     margin-right: 40px;
   }
+
+
+
 }
+
 
 @media (min-width: 990px) {
 
