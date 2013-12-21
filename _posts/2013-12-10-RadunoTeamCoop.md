@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raduno Team Coop
-excerpt: Lo scorso Settembre, grazie all'invito dell'amico Nicola Morandini, mi è stato concesso l'onore di allenarmi 10 giorni col Team Coop nel loro raduno italiano in Val di Fiemme. <img class="postimg" src="/images/coop.jpg">
+excerpt: Breve racconto di 10 giorni trascorsi con il Team Coop <img class="postimg" src="/images/coop.jpg">
 ---
 
 Lo scorso Settembre, grazie all'invito dell'amico Nicola Morandini, mi è stato concesso l'onore di allenarmi 10 giorni col Team Coop nel loro raduno italiano in Val di Fiemme.<br>
@@ -14,4 +14,4 @@ Ringrazio il Team Coop per avermi permesso di allenarmi con loro e auguro a loro
 
 Riccardo
 
-<a href="/images/coop.jpg"><img width=700px; height=400px; src="/images/coop.jpg"></a>
+<a href="/images/coop.jpg"><img class="postimg" src="/images/coop.jpg"></a>
