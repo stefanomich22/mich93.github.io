@@ -1,0 +1,117 @@
+
+        <a name="c5t_form"></a>
+        
+        <div class="c5t_comment_form_background">
+        <form {$form.attributes}>
+        
+          <table class="c5t_comment_form_table">
+
+            <tr>
+              <td colspan="2" class="c5t_error_message">
+                {foreach from=$message item=item}
+                  <div class="c5t_error_message_item">{$item}</div>
+                {/foreach}              
+              </td>
+            </tr>
+
+            {if $show_form == "yes"}
+            
+            {if $activate_rating == 'Y'}
+            <tr>
+              <td class="c5t_comment_form_rating">
+                {$txt_your_rating}
+			    {foreach from=$rating_images item=item}<input  
+			    		type="image" 
+			    		id="c5t_rating_{$item.value}" 
+			    		alt="{$item.value}" 
+			    		title="{$item.value}" 
+			    		onclick="c5t_rating_set_value({$item.value}, '{$template_url}/image/rating/{$item.image}/'); return false;" 
+			    		onmouseover="c5t_rating_highlight({$item.value}, '{$template_url}/image/rating/{$item.image}/')" 
+			    		onmouseout="c5t_rating_normal({$item.value}, '{$template_url}/image/rating/{$item.image}/')"  
+			    		src="{$template_url}/image/rating/{$item.image}/{$item.type}.png" 
+			    		name="c5t_rating" 
+			    		value="{$item.type}" 
+			    		/>{/foreach}
+			    <input type="hidden" name="rating_top_value" id="c5t_comment_form_rating_top_value" value="{$rating_top_value}" />
+			    <input type="hidden" name="rating" id="c5t_comment_form_rating" value="{$rating_default_value}" />
+              </td>
+            </tr>
+            {/if}
+            
+            <tr>
+              <td class="c5t_comment_form_label">
+                {if $form.name.error} <span class="c5t_error_message">{$form.name.error}</span> {else} {$form.name.label} {/if}  
+              </td>
+            </tr>
+            <tr>
+              <td class="c5t_comment_form_field">
+                {$form.name.html}
+              </td>
+            </tr>
+
+            <tr>
+              <td class="c5t_comment_form_label">
+                {if $form.email.error} <span class="c5t_error_message">{$form.email.error}</span> {else} {$form.email.label} {/if}
+              </td>
+            </tr>
+            <tr>
+              <td class="c5t_comment_form_field">
+                {$form.email.html}
+              </td>
+            </tr>
+
+            <tr>
+              <td class="c5t_comment_form_label">{$form.homepage.label}</td>
+            </tr>
+            <tr>
+              <td class="c5t_comment_form_field">
+                {$form.homepage.html}
+              </td>
+            </tr>
+
+            <tr>
+              <td class="c5t_comment_form_label">{$form.title.label}</td>
+            </tr>
+            <tr>
+              <td class="c5t_comment_form_field">
+                {$form.title.html}
+              </td>
+            </tr>
+
+            <tr>
+              <td class="c5t_comment_form_label">
+                {if $form.$comment_field_name.error} <span class="c5t_error_message">{$form.$comment_field_name.error}</span> {else} {$form.$comment_field_name.label} {/if}
+              </td>
+            </tr>
+            
+            <tr>
+              <td>
+                {call_module trigger="frontend_textarea" field=$comment_field_name}                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="c5t_comment_form_field">
+                {$form.$comment_field_name.html}                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="c5t_comment_form_field">
+                {call_module trigger="frontend_comment_form"}
+              </td>
+            </tr>
+
+
+            <tr>
+              <td class="c5t_comment_form_label"></td>
+            </tr>
+            <tr>
+              <td class="c5t_comment_form_submit" id="c5t_comment_form_submit">{$form.save.html}{$form.hidden}</td>
+            </tr>
+
+            {/if}
+          </table>
+            
+        </form>
+        </div>
