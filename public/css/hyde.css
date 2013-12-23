@@ -349,6 +349,11 @@ a:hover {
 	font-wight: 200;
 	margin-left: -40px;
 }
+.resultsTable{
+	text-align:center;
+	width: 150px;
+		
+}
 	/* Responsive
 -------------------------------------------------- */
 @media (min-width: 768px) {
@@ -494,6 +499,7 @@ a:hover {
 }
 .resultsTable{
 	text-align:center;
+	width: 700px;
 		
 }
 .post {
