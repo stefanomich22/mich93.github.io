@@ -18,5 +18,5 @@ Riccardo
 
 
 
-<a href="/images/sgambeda.jpg"><img class="postimg" src="/images/lava_profile.jpg"></a>
-<a href="/images/sgambeda.jpg"><img class="postimg" src="/images/lava_tre.jpg"></a>
+<a href="/images/lava_profile.jpg"><img class="postimg" src="/images/lava_profile.jpg"></a>
+<a href="/images/lava_tre.jpg"><img class="postimg" src="/images/lava_tre.jpg"></a>
