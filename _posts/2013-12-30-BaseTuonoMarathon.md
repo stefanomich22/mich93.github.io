@@ -1,7 +1,7 @@
 ---
 layout: post
-title: La Sgambeda Classic
-excerpt: Analisi de La Base Tuono Marathon <img class="postimg" src="/images/basetuono.jpg">
+title: Base Tuoono Marathon
+excerpt: Analisi della gara Base Tuono Marathon <img class="postimg" src="/images/basetuono.jpg">
 ---
 
 Domenica 29/12/13 ho gareggiato nella gara Base Tuono al Passo Coe, il tempo non era dei migliori, infatti nevicava leggermente e la temperatura era di 0 gradi.<br>
