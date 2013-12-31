@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Base Tuoono Marathon
+title: Base Tuono Marathon
 excerpt: Analisi della gara Base Tuono Marathon <img class="postimg" src="/images/basetuono.jpg">
 ---
 
