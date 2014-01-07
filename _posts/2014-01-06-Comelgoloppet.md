@@ -19,5 +19,5 @@ Riccardo
 
 
 
-<a href="/images/lava_profile.jpg"><img class="postimg" src="/images/comelgo.jpg"></a>
+<a href="/images/comelgo.jpg"><img class="postimg" src="/images/comelgo.jpg"></a>
 

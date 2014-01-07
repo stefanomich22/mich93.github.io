@@ -21,4 +21,4 @@ Qui sotto una foto con mio fratello Stefano dopo la gara
 
 
 
-<a href="/images/sgambeda.jpg"><img class="postimg" src="/images/basetuono.jpg"></a>
+<a href="/images/basetuono.jpg"><img class="postimg" src="/images/basetuono.jpg"></a>

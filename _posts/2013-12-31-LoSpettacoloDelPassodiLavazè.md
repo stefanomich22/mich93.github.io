@@ -14,5 +14,5 @@ Riccardo
 
 
 
-<a href="/images/lava_profile.jpg"><img class="postimg" src="/images/lava1.jpg"></a>
-<a href="/images/lava_tre.jpg"><img class="postimg" src="/images/lava2.jpg"></a>
+<a href="/images/lava1.jpg"><img class="postimg" src="/images/lava1.jpg"></a>
+<a href="/images/lava2.jpg"><img class="postimg" src="/images/lava2.jpg"></a>

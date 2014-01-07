@@ -13,6 +13,6 @@ Riccardo
 
 
 
-<a href="/images/lava_profile.jpg"><img class="postimg" src="/images/amiciCorso.jpg"></a>
-<a href="/images/lava_profile.jpg"><img class="postimg" src="/images/maestri.jpg"></a>
+<a href="/images/amiciCorso.jpg"><img class="postimg" src="/images/amiciCorso.jpg"></a>
+<a href="/images/maestri.jpg"><img class="postimg" src="/images/maestri.jpg"></a>
 
