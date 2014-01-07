@@ -17,7 +17,7 @@ Sono contento di questa gara, che sicuramente è stata un buon allenamento visto
 <br>
 Riccardo 
 <br>
-Qui soto una foto con mio fratello Stefano dopo la gara
+Qui sotto una foto con mio fratello Stefano dopo la gara
 
 
 
