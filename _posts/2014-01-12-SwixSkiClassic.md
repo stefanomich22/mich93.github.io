@@ -19,5 +19,5 @@ Riccardo
 
 
 <a href="/images/swix.jpg"><img class="postimg" src="/images/swix.jpg"></a>
-<a href="/images/nodoping.jpg"><img class="postimg" src="/images/nodoping.jpg"></a>
+<a href="/images/nodoping.jpe"><img class="postimg" src="/images/nodoping.jpe"></a>
 
