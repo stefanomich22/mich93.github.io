@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La Diagonela
-excerpt: Prima esperienza nel circuito Swix Ski Classic <img class="postimg" src="/images/diagonela.jpg">
+excerpt: Prima esperienza nel circuito Swix Ski Classic <img class="diagoimg" src="/images/diagonela.jpg">
 ---
 
 Domenica 12 Gennaio 2014 ho disputato la gara La Diagonela, a St. Moritz Engadina.<br>
@@ -18,12 +18,12 @@ Faccio un grande complimento ai miei compagni di Team Tony Livers che ha chiuso 
 La prossima gara del circuito sarà la Marcialonga, ricordo a tutti gli appassionati delle gare Long Distance che sul sito <a href="http:\\swixskiclassics.com">Swix Ski Classic</a> si può vedere tutto il video della gara La Diagonela, e il video live di tutte le prossime gare.<br>
 Di seguito i primi 5 classificati, nella sezione results potete trovare la classifica completa
 
-TOP 5 MEN
-1 Rikard Tynell Team Tynell
-2 Johan Kjølstad Team United Bakeries
-3 John Kristian Dahl Team United Bakeries
-4 Simen Østensen Team Centric
-5 Stanislav Rezac Team Centric
+TOP 5 MEN<br>
+1 Rikard Tynell Team Tynell<br>
+2 Johan Kjølstad Team United Bakeries<br>
+3 John Kristian Dahl Team United Bakeries<br>
+4 Simen Østensen Team Centric<br>
+5 Stanislav Rezac Team Centric<br>
 
 Riccardo
 

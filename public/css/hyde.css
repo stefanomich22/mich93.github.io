@@ -490,8 +490,15 @@ a:hover {
 }
 .postimg{
 	width: 700px;
+	height: 75px;
 	
 }
+.diagoimg{
+	width: 700px;
+	height: 1500px;
+	
+}
+
 .season{
 	position:absolute;
 	top:0;
