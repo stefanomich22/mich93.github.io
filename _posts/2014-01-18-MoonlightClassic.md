@@ -19,6 +19,6 @@ Prossimo gara, Marcialonga.<br>
 Riccardo
 
 
-<a href="/images/diagonela.jpg"><img class="postimg" src="/images/moonlight.jpg"></a>
+<a href="/images/moonlight.jpg"><img class="postimg" src="/images/moonlight.jpg"></a>
 
 
