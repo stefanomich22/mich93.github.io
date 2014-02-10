@@ -5,8 +5,8 @@ excerpt: Combinata devastante!  <img class="postimg" src="/images/dobbiacocombi.
 ---
 
 Questo weekend si è svolta la Dobbiaco-Cortina, sabato gara a Skating dal percorso modificato e domenica a Classico.<br>
-Sabato partenza alle ore 10:00 dall aereoporto di Dobbiaco con arrivo allo stadio di Dobbiaco dopo 30 km , percorso cambiato vista la troppo neve caduta a Cortina ed il pericolo valanghe .
-Alla partenza c'erano 0° gradi ed un bel tempo a contrario delle brutte previsioni.<br>
+Sabato partenza alle ore 10:00 dall'aereoporto di Dobbiaco con arrivo allo stadio di Dobbiaco dopo 30 km , percorso cambiato vista la troppo neve caduta a Cortina ed il pericolo valanghe .
+Alla partenza c'erano 0 gradi ed un bel tempo a contrario delle brutte previsioni.<br>
 Per i primi 10 km fino all entrata dello stadio di Dobbiaco la gara è stata molto tranquilla, dopo di che l amico Forestale Gardener Stefano ha cominciato ad alzare il ritmo e dopo i 5 km della pista agonistica siamo restati in 5 nel primo gruppo con sempre Stefano all attacco.<br>
 Appena qualcuno dava il cambio a Gardener si respirava un po' mentre appena si rimetteva davanti lui a tirare per salire verso il lago io soprattutto ma non solo pregavamo tutti i santi e dopo una serie di allunghi Gardener è riuscito anche a prendere qualche metro di vantaggio ma poi lo hanno subito ripreso.<br>
 Al giro di boa dopo una lunga lunghissima agonia io mi sono staccato anche per via dei crampi ad entrambe le gambe e nel scendere sono stato raggiunto dai due atleti della Nazionale Under 23 della Slovenia . La volata è stata vinta dal grande Thomas Moriggl in con il nostro ski man DeZolt Roberto secondo a precedere Clementi Fabrizio e Gardener Stefano, io ho chiuso al 7° posto. Come ha rilasciato anche alle interviste il vincitore Moriggl questa gara però avrebbe meritato di vincerla l'amico Stefano Gardener che ha tirato tutta la gara e ha fatto gara dura da subito mettendo in difficoltà tutti e mi è dispiaciuto che in volata si è fatto battere da tutti e 3.<br>
