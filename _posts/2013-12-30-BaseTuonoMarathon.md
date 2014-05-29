@@ -2,7 +2,7 @@
 layout: post
 title: Base Tuono Marathon
 excerpt: Analisi della gara Base Tuono Marathon <img class="postimg" src="/images/basetuono.jpg">
-visible:1
+
 ---
 
 Domenica 29/12/13 ho gareggiato nella gara Base Tuono al Passo Coe, il tempo non era dei migliori, infatti nevicava leggermente e la temperatura era di 0 gradi.<br>

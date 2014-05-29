@@ -2,7 +2,7 @@
 layout: post
 title: Marcialonga di Fiemme e Fassa
 excerpt: Gara eccellente ed emozionante  <img class="postimg" src="/images/marcia.jpg">
-visible:1
+
 ---
 
 Domenica 26 gennaio si è disputata la 41° Marcialonga, gara a Classic 70 km più famosa in Italia.

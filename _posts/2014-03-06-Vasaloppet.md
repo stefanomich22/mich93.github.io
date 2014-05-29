@@ -2,7 +2,7 @@
 layout: post
 title: Vasaloppet 2014
 excerpt: La mia prima Vasa  <img class="postimg" src="/images/vasa-start.jpg">
-visible:1
+
 ---
 
 Domenica scorsa si è disputata in Svezia la Vasaloppet, gara a classico che fa parte del circuito Ski Classic di 90 km, la più famosa delle Gran Fondo, con più di 15000 partecipanti.<br>
