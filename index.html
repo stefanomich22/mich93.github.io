@@ -4,7 +4,7 @@ layout: default
 <?php include_once("analyticstracking.php") ?>
 <div class="posts">
   {% for post in paginator.posts %}
-  {% if post.visible==1  %}
+  {% if post.layout== post  %}
   <div class="post">
     <h1>
       <a href="{{ post.url }}">
