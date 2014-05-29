@@ -2,7 +2,7 @@
 layout: post
 title: Birkebeinerrennet 2014
 excerpt: Un gran peccato!  <img class="postimg" src="/images/Birke.jpg">
-visible: 1
+visible:1
 ---
 
 Sabato scorso in programma c'era la 5 gara del circuito Ski Classics , la Bierkebeinerrennet in Norvegia, gara di lunghezza pari a 54 km da fare in alternato visto il percorso durissimo e impegnativo.<br>

@@ -2,7 +2,7 @@
 layout: post
 title: Lo spettacolo del Passo Lavazè
 excerpt: Il Paradiso dello Sci di Fondo <img class="postimg" src="/images/lava1.jpg">
-visible: 1
+visible:1
 ---
 
 Sicuramente uno dei posti più belli per allenarsi al mondo.<br>

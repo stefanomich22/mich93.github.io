@@ -2,7 +2,7 @@
 layout: post
 title: Raduno Team Coop
 excerpt: Breve racconto di 10 giorni trascorsi con il Team Coop <img class="postimg" src="/images/coop.jpg">
-visible: 1
+visible:1
 ---
 
 Lo scorso Settembre, grazie all'invito dell'amico Nicola Morandini, mi è stato concesso l'onore di allenarmi 10 giorni col Team Coop nel loro raduno italiano in Val di Fiemme.<br>

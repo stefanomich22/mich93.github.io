@@ -2,7 +2,7 @@
 layout: post
 title: Moonlight Classic
 excerpt: Grande fatica ma ne è valsa la pena!  <img class="postimg" src="/images/moonlight.jpg">
-visible: 1
+visible:1
 ---
 
 Giovedì sera scorso ho partecipato per la prima volta alla Moonlight, gara di 30 km di Classico in notturna all'Alpe di Siusi.<br>
