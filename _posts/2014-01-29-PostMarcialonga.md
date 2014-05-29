@@ -2,6 +2,7 @@
 layout: post
 title: Post Marcialonga
 excerpt: Aspettando la König Ludwig Lauf si scia nel posto più bello al mondo, Passo Lavazè.  <img class="postimg" src="/images/passo.JPG">
+visible: 1
 ---
 
 Anche oggi fantastica sciata al Passo, con temperature attorno ai -5°, 2 orette a Skating proprio piacevoli, la Marcialonga sembro averla smaltita bene e domenica una nuova avventura lunga 50 km abbastanza pianeggianti in Germania, la König Ludwig Lauf.<br>
