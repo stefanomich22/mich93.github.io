@@ -11,5 +11,5 @@ Dentro di me mi ero fatto un idea senza dire niente ai compagni, di pedalare il 
 Partiti dal Brennero alle 7,30 del mattino la tappa è andata benissimo per tutta la mattinata e in un attimo siamo arrivati a Trento senza nessun problema, agevolati dal fatto che conoscevamo bene le strade, per pranzo ci siamo fermati dall amico Maestri Richard che ci ha fatto un abbondante piatto di pasta per recuperare la forze. Siamo ripartiti alle 15 del pomeriggio e ci siamo diretti verso Verona, dove purtroppo è cominciata la superstrada e quindi siamo stati costretti a passare per il centro e ci siamo persi svariate volte ma alla fine siamo riusciti a superare Verona ed a giungere a Nogara.<br>
 Da notare che i km programmati su Goggle Maps erano 260 ma per via della Superstrada e qualche errore nostro sono diventati 292,50 km. Il gruppo comunque è rimasto compatto anche se Pietro cominciava a lamentarsi per i troppi km e volevo farne meno di 200 il giorno successivo ma siamo riusciti a tranquillizzarlo e convincerlo di non mollare i primi giorni.<br>
 <a href="/images/1tappa.jpg"><img class="postimg" src="/images/giroitalia/1tappa.jpg"></a>
-<a href="/2Tappa/"><p class="correlatedPost"><b>2° Tappa Nogara-Riccione</b></p></a>
+<a href="/2014/05/26/2Tappa/"><p class="correlatedPost"><b>2° Tappa Nogara-Riccione</b></p></a>
 Riccardo 
