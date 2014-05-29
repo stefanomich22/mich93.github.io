@@ -2,7 +2,6 @@
 layout: post
 title: La Sgambeda Classic
 excerpt: Analisi de La Sgambeda Classic di 21 km a Livigno <img class="postimg" src="/images/sgambeda.jpg">
-
 ---
 
 Venerdì scorso ho preso parte a la Sgambeda Classic di 21 km a Livigno. Partenza ore 11:00 con temperatura di 8 gradi sotto lo zero, sono partito con sci puliti facendo la gara tutta a spinta.

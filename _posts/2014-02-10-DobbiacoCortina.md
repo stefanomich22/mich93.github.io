@@ -2,7 +2,6 @@
 layout: post
 title: Dobbiaco-Cortina
 excerpt: Combinata devastante!  <img class="postimg" src="/images/dobbiacocombi.jpg">
-
 ---
 
 Questo weekend si è svolta la Dobbiaco-Cortina, sabato gara a Skating dal percorso modificato e domenica a Classico.<br>

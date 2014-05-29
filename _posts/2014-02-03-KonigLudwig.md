@@ -2,7 +2,6 @@
 layout: post
 title: 42° König Ludwig Lauf
 excerpt: Terza tappa del circuito Ski Classic.  <img class="postimg" src="/images/konig.jpg">
-
 ---
 
 Domenica 2 febbraio si è disputata in Germania ad Oberammergau la 42° edizione della König Ludwig Lauf, gara in classico di 50 km.<br>

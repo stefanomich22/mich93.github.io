@@ -2,7 +2,6 @@
 layout: post
 title: Swix Ski Classic
 excerpt: Un grande circuito con un alto livello <img class="postimg" src="/images/swix.jpg">
-
 ---
 
 Domenica scorsa si è disputata la prima tappa del circuito Swix Ski Classic.<br>

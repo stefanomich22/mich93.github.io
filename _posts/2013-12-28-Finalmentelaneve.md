@@ -2,7 +2,6 @@
 layout: post
 title: Finalmente la neve
 excerpt: Venerdì 27 Dicembre 2013 , Passo Lavaze' wonderful place <img class="postimg" src="/images/lava_profile.jpg">
-
 ---
 
 Primo giorno di vera neve !!

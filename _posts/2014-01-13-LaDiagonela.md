@@ -2,7 +2,6 @@
 layout: post
 title: La Diagonela
 excerpt: Prima esperienza nel circuito Swix Ski Classic <img class="diagoimg" src="/images/diagonela.jpg">
-
 ---
 
 Domenica 12 Gennaio 2014 ho disputato la gara La Diagonela, a St. Moritz Engadina.<br>
