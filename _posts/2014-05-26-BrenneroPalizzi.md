@@ -2,7 +2,7 @@
 layout: post
 title: Giro D'Italia da Brennero a Palizzi Marina 
 excerpt: Una sfida diventata un'avventura  <img class="postimg" src="/images/giroitalia/mare.jpg">
-visible: 1
+visible= 1
 ---
 
 Lo scorso lunedì 19 Maggio, sono partito dal Brennero con la bici dopo una discreta preparazione con due amici Valorz Pietro e Fanton Paolo con l idea di pedalare fino al punto più a sud della penisola italiana.
