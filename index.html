@@ -4,8 +4,6 @@ layout: default
 <?php include_once("analyticstracking.php") ?>
 <div class="posts">
   {% for post in paginator.posts %}
- 
-  
   <div class="post">
     <h1>
       <a href="{{ post.url }}">
@@ -19,7 +17,6 @@ layout: default
         </a>
       </a>
   </div>
-  
   {% endfor %}
 </div>
 
