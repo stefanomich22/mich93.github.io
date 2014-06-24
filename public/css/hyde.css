@@ -354,6 +354,14 @@ a:hover {
 	width: 100px;
 		
 }
+@media (min-width: 400px) {
+  .resultsTable{
+	text-align:center;
+	width: 100px;
+		
+}
+
+}
 	/* Responsive
 -------------------------------------------------- */
 @media (min-width: 768px) {
