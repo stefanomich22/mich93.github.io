@@ -354,14 +354,6 @@ a:hover {
 	width: 100px;
 		
 }
-@media (min-width: 400px) {
-  .resultsTable{
-	text-align:center;
-	width: 100px;
-		
-}
-
-}
 	/* Responsive
 -------------------------------------------------- */
 @media (min-width: 768px) {
@@ -376,19 +368,10 @@ a:hover {
     margin-left: 40px;
     margin-right: 40px;
   }
-  .sponsorfooter{
-	  position: absolute;
-	  width: 75%;
-	  right: 0;
-	  align: middle;
-	  text-align: center;
-	  /*display: inline-block;*/
-} 
-  .resultsTable{
-	   text-align:center;
-	   width: 300px;
+
+
+
 }
-  
 
 
 @media (min-width: 990px) {
@@ -445,8 +428,8 @@ a:hover {
   }
   .social{
     position:absolute;
-  	left:110px;
-  	bottom:-30px;
+  	left:0px;
+  	bottom:-85px;
   	display: inline-block;
   }
   .socialimg{
@@ -546,3 +529,4 @@ a:hover {
 	text-align: center;
 	display: inline-block;
 }
+
