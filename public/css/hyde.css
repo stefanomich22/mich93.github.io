@@ -442,7 +442,7 @@ a:hover {
   .social{
     position:absolute;
   	left:0px;
-  	bottom:-85px;
+  	bottom:0px;
   	display: inline-block;
   }
   .socialimg{
