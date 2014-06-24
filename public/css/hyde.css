@@ -380,11 +380,7 @@ a:hover {
 	   text-align:center;
 	   width: 300px;
 }
-  .socialimg{
-  	width: 100px;
-	  height: 100px;
-	  display: inline-block;
-  }
+  
 
 
 @media (min-width: 990px) {
@@ -442,7 +438,7 @@ a:hover {
   .social{
     position:absolute;
   	left:0px;
-  	bottom:0px;
+  	bottom:-85px;
   	display: inline-block;
   }
   .socialimg{
