@@ -2,6 +2,7 @@
 layout: post
 title: 2° modulo corso Maestri Trentino
 excerpt: C'è sempre da imparare <img class="postimg" src="/images/amiciCorso.jpg">
+visible: 1
 ---
 
 Questa settimana a Vermiglio sto facendo il secondo modulo di formazione maestri sci, con molti vecchi amici come Pietro Valorz ed istruttori molto bravi come Igor Maestri e Selle Fabio.<br>

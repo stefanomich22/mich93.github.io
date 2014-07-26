@@ -2,6 +2,7 @@
 layout: post
 title: Comelgoloppet Skating
 excerpt: Analisi della Comelgoloppet in skating <img class="postimg" src="/images/comelgo.jpg">
+visible: 1
 ---
 
 Il tempo non ha aiutato.<br>
