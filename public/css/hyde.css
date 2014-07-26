@@ -535,4 +535,17 @@ a:hover {
 	text-align: center;
 	display: inline-block;
 }
+/* IMAGE GALLERY */
+
+
+.thumbnails img { 
+height: 80px;
+border: 4px solid #555; /*border around the thumbnail is 4 pixel wide and color used is the one with 555 color code.*/
+padding: 1px; /* amount of space left between the image edge and it's border */
+margin: 0 10px 10px 0; /* amount of space left between a border and the image or any content around it.*/
+}
+.thumbnails img:hover {
+border: 4px solid #00ccff;
+cursor: pointer;
+}
 
