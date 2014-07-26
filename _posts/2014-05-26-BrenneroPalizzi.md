@@ -2,6 +2,7 @@
 layout: post
 title: Giro D'Italia da Brennero a Palizzi Marina 
 excerpt: Una sfida diventata un'avventura  <img class="postimg" src="/images/giroitalia/mare.jpg">
+visible: 1
 ---
 Lo scorso lunedì 19 Maggio, sono partito dal Brennero con la bici dopo una discreta preparazione con due amici Valorz Pietro e Fanton Paolo con l idea di pedalare fino al punto più a sud della penisola italiana.<br>
 Dentro di me mi ero fatto un idea senza dire niente ai compagni, di pedalare il primo giorno 260 km prenotando in anticipo l albergo e poi circa 200 km al giorno arrivando così dopo 7 giorni e 1400 km (visualizzando Google Maps )  al punto di arrivo.<br>
