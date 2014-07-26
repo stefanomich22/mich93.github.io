@@ -548,4 +548,7 @@ margin: 0 10px 10px 0; /* amount of space left between a border and the image or
 border: 4px solid #00ccff;
 cursor: pointer;
 }
+.gallery{
+	display: inline-block;
+}
 
