@@ -544,6 +544,7 @@ table, thead, tbody, th, td, tr {
 .season{
 	position:absolute;
 	top:100px;
+	bottom:0px;
 	left: 700px;
 }
 .resultsTable{
