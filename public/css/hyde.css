@@ -424,6 +424,11 @@ table, thead, tbody, th, td, tr {
     margin-right: 10%;
     width: 55%;
   }
+  .container ul{
+  	padding:0; 
+    margin:0; 
+    list-style-type:none; 
+  }
 
   /* Fix the masthead to the side for impact and awesomeness */
   .masthead {
