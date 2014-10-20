@@ -359,9 +359,6 @@ a:hover {
 	  text-align: center;
 	  /*display: inline-block;*/
 }
-.masthead{
-	width:100%;
-}
 
 	/* Responsive
 -------------------------------------------------- */
@@ -380,7 +377,7 @@ only screen and (max-width: 760px),
     margin-right: 40px;
   }
   .sponsorfooter{
-	  position: absolute;
+	  position: relative;
 	  width: 100%;
 	  margin-left:auto;
 	  margin-right:auto;
