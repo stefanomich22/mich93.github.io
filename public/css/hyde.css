@@ -370,9 +370,9 @@ only screen and (max-width: 760px),
   }
   .sponsorfooter{
 	  position: absolute;
-	  width: 75%;
-	  right: 0;
-	  align: middle;
+	  width: 100%;
+	  margin-left:auto;
+	  margin-right:auto;
 	  text-align: center;
 	  /*display: inline-block;*/
 }
