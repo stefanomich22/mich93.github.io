@@ -351,6 +351,14 @@ a:hover {
 	font-weight: 200;
 	margin-left: -40px;
 }
+.sponsorfooter{
+	  position: absolute;
+	  width: 100%;
+	  margin-left:auto;
+	  margin-right:auto;
+	  text-align: center;
+	  /*display: inline-block;*/
+}
 
 	/* Responsive
 -------------------------------------------------- */
