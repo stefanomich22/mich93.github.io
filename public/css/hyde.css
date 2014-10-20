@@ -321,9 +321,11 @@ a:hover {
 	display: inline-block;
   }
   .postimg{
-	width: 200px;
+	width: 250px;
+	height:200px;
 	
 }
+
 .team {
 	font-size: 1em;
 	font-weight: 500;
@@ -344,9 +346,9 @@ a:hover {
 .navitem {
   display: inline-table;
 	width: 100%;
-	padding: 4px 40px;
-	font-size: 1em;
-	font-wight: 200;
+	padding: 8px 40px;
+	font-size: 1.5em;
+	font-weight: 200;
 	margin-left: -40px;
 }
 
