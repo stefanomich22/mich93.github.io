@@ -359,6 +359,9 @@ a:hover {
 	  text-align: center;
 	  /*display: inline-block;*/
 }
+.masthead{
+	width:100%;
+}
 
 	/* Responsive
 -------------------------------------------------- */
