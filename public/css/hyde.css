@@ -441,9 +441,9 @@ table, thead, tbody, th, td, tr {
   }
   .masthead-inner {
     position: absolute;
-    top: 0;
+    top: -10px;
     right: 0;
-    left: 0;
+    left: 10px;
   }
   .masthead h1 {
     font-size: 35px;
@@ -593,4 +593,8 @@ table, thead, tbody, th, td, tr {
 iframe{
     border:none;
     display:block;
+}
+.thumb{
+	width:100px;
+	height:100px;
 }
