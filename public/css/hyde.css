@@ -343,6 +343,10 @@ a:hover {
 	margin-bottom: 20px;
 	
 }
+td {
+  text-align: center;
+  vertical-align: middle;
+}
 .navitem {
   display: inline-table;
 	width: 100%;
@@ -376,6 +380,18 @@ only screen and (max-width: 760px),
     margin-left: 40px;
     margin-right: 40px;
   }
+  .postimg{
+	width: 350px;
+	height:280px;
+}
+  .navitem {
+  display: inline-table;
+	width: 100%;
+	padding: 8px 40px;
+	font-size: 1.7em;
+	font-weight: 200;
+	margin-left: -40px;
+}
   .sponsorfooter{
 	  position: relative;
 	  width: 100%;
