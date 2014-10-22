@@ -363,7 +363,10 @@ td {
 	  text-align: center;
 	  /*display: inline-block;*/
 }
-
+.masthead-inner > * {
+  	margin-left: 40px;
+  	margin-right:40px;
+}
 	/* Responsive
 -------------------------------------------------- */
 
@@ -373,16 +376,20 @@ only screen and (min-device-width: 768px) and (max-device-width: 1024px)  {
     /*padding: 40px;*/
   }
   .masthead-inner > * {
-  	margin-left: 40px;
-  	margin-right: 40px;
+  	margin-left: 50px;
+  	margin-right: 50px;
   }
   .posts {
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
   }
   .postimg{
-	width: 350px;
-	height:280px;
+	width: 370px;
+	height:300px;
+}
+.bioimg {
+	width: 200px;
+	height: 200px;
 }
   .navitem {
   display: inline-table;
@@ -470,6 +477,10 @@ table, thead, tbody, th, td, tr {
     top: -10px;
     right: 0;
     left: 10px;
+  }
+  .masthead-inner > * {
+  	margin-left: -8px;
+  	margin-right: 0px;
   }
   .masthead h1 {
     font-size: 35px;
