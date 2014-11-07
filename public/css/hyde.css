@@ -379,10 +379,11 @@ only screen and (min-device-width : 768px) and (max-device-width : 1024px){
   	margin-left: 50px;
   	margin-right: 50px;
   }
-  .posts {
-    margin-left: 50px;
-    margin-right: 50px;
-  }
+  .container {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+}
   .postimg{
 	width: 370px;
 	height:300px;
