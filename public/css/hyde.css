@@ -248,6 +248,7 @@ a:hover {
 .related {
   padding-top: 40px;
   border-top: 1px solid #eee;
+  clear:both;
 }
 .related-posts {
   list-style: none;
@@ -454,9 +455,10 @@ table, thead, tbody, th, td, tr {
 
   /* Center container in available real estate */
   .container {
-    margin-left: 35%;
+    margin-left: 30%;
     margin-right: 10%;
-    width: 55%;
+    width: 70%;
+    
   }
   .container ul{
   	padding:0; 
@@ -477,7 +479,7 @@ table, thead, tbody, th, td, tr {
     position: absolute;
     top: -10px;
     right: 0;
-    left: 10px;
+    left: 15px;
   }
   .masthead-inner > * {
   	margin-left: -8px;
@@ -491,11 +493,14 @@ table, thead, tbody, th, td, tr {
   .posts {
     margin-left: 0;
     margin-right: 0;
+    
   }
   /* Increase space between posts */
   .post {
     margin-top: 60px;
     margin-bottom: 60px;
+    float:left;
+    margin-right:40px;
   }
 
   /* Make pagination stand alone */
@@ -505,6 +510,7 @@ table, thead, tbody, th, td, tr {
     margin-right: auto;
     margin-bottom: 60px;
     border: 1px solid #eee;
+    clear:both;
   }
   .social{
     position:absolute;
@@ -575,8 +581,8 @@ table, thead, tbody, th, td, tr {
     display: inline-block;
 }
 .postimg{
-	width: 700px;
-	height: 500px;
+	width: 340px;
+	height: 280px;
 	
 	
 }
@@ -601,6 +607,7 @@ table, thead, tbody, th, td, tr {
   margin-top: 40px;
   margin-bottom: 40px;
   font-size: 20px;
+  
 }
 /* SPONSOR FOOTER */
 .sponsorfooter{
@@ -609,6 +616,7 @@ table, thead, tbody, th, td, tr {
 	right: 0;
 	text-align: center;
 	display: inline-block;
+	clear:both;
 }
 /* IMAGE GALLERY */
 
