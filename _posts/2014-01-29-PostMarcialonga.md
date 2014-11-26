@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Post Marcialonga
-excerpt: Aspettando la König Ludwig Lauf si scia nel posto più bello al mondo, Passo Lavazè.  <img class="postimg" src="/images/passo.JPG">
+excerpt: Allenamenti al Passo Lavazè.  <img class="postimg" src="/images/passo.JPG">
 visible: 1
 ---
 
