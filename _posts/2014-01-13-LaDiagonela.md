@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La Diagonela
-excerpt: Prima esperienza nel circuito Swix Ski Classic <img class="diagoimg" src="/images/diagonela.jpg">
+excerpt: Prima esperienza nel circuito Swix Ski Classic <img class="postimg" src="/images/diagonela.jpg">
 visible: 1
 ---
 
