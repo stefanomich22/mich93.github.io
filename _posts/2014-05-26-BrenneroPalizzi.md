@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Giro D'Italia da Brennero a Palizzi Marina 
+title: Giro D'Italia in bicicletta
 excerpt: Una sfida diventata un'avventura  <img class="postimg" src="/images/giroitalia/mare.jpg">
 visible: 1
 ---

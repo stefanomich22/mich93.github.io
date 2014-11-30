@@ -4,7 +4,7 @@ layout: default
 
 <div class="posts">
   {% for post in paginator.posts %}
- <!-- {% if post.visible == 1  %}-->
+
   <div class="post">
     <h1>
       <a href="{{ post.url }}">
@@ -18,7 +18,7 @@ layout: default
         </a>
       </a>
   </div>
-  <!--{% endif %}-->
+
   {% endfor %}
 </div>
 
