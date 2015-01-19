@@ -26,7 +26,7 @@ Riccardo
 
 <a href="/images/diagonela1.jpg"><img class="postimg" src="/images/diagonela1.jpg"></a>
 <a href="/images/diagonela2.jpg"><img class="postimg" src="/images/diagonela2.jpg"></a>
-<a href="/images/diagonela3.jpg"><img class="postimg" src="/images/diagonela3.jpg"></a>
+
 <a href="/images/diagonela4.jpg"><img class="postimg" src="/images/diagonela4.jpg"></a>
 <a href="/images/diagonela5.jpg"><img class="postimg" src="/images/diagonela5.jpg"></a>
 <a href="/images/diagonela6.jpg"><img class="postimg" src="/images/diagonela6.jpg"></a>
