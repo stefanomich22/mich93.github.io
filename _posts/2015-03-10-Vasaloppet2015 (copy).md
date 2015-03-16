@@ -37,9 +37,9 @@ Sono contento per il carattere dimostrato e la grinta che ho messo in questa gar
 
 Riccardo 
 
-<a href="/images/vasa2015.jpg"><img class="postimg" src="/images/vasa2015.jpg"></a>
-<a href="/images/vasa12015.jpg"><img class="postimg" src="/images/vasa12015.jpg"></a>
+<a href="/images/marcia12015.jpg"><img class="postimg" src="/images/marcia12015.jpg"></a>
+<a href="/images/marcia2015.jpg"><img class="postimg" src="/images/marcia2015.jpg"></a>
 
-<a href="/images/vasa22015.jpg"><img class="postimg" src="/images/vasa22015.jpg"></a>
+<a href="/images/marcia22015.jpg"><img class="postimg" src="/images/marcia22015.jpg"></a>
 
 
